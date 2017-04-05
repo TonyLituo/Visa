@@ -7,4 +7,12 @@ package com.dhcc.visa.model.api;
  */
 
 public class Api {
+    //基础路径
+
+    public static final String URL_BASE = "";
+
+    //测试路径
+    public static final String URL_TEST = URL_BASE + "";
+
+
 }

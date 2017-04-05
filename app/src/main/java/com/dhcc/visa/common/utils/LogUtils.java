@@ -2,7 +2,7 @@ package com.dhcc.visa.common.utils;
 
 /**
  * 自定义日志工具类，统一对日志输出做出控制。
- * 在公司项目中，可以考虑使用Timber等开源日志工具，不用重复造轮子。
+ *
  */
 @SuppressWarnings("unused")
 public final class LogUtils {
